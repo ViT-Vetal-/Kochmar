@@ -1,0 +1,15 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\hashtable\bin\Debug\hashtable.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\hashtable\bin\Debug\hashtable.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\hashtable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\hashtable\obj\x86\Debug\hashtable.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\hashtable\obj\x86\Debug\hashtable.pdb
+d:\mob документы\visual studio 2010\Projects\hashtable\hashtable\obj\x86\Debug\hashtable.exe
+d:\mob документы\visual studio 2010\Projects\hashtable\hashtable\obj\x86\Debug\hashtable.pdb
+d:\mob документы\visual studio 2010\Projects\hashtable\hashtable\bin\Debug\hashtable.exe
+d:\mob документы\visual studio 2010\Projects\hashtable\hashtable\bin\Debug\hashtable.pdb
+d:\mob документы\visual studio 2010\Projects\hashtable\hashtable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\hashtable\hashtable\obj\x86\Debug\hashtable.exe
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\hashtable\hashtable\obj\x86\Debug\hashtable.pdb
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\hashtable\hashtable\bin\Debug\hashtable.exe
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\hashtable\hashtable\bin\Debug\hashtable.pdb
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\hashtable\hashtable\obj\x86\Debug\ResolveAssemblyReference.cache

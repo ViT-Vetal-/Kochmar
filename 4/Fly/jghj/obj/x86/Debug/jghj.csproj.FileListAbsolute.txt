@@ -1,0 +1,5 @@
+d:\mob документы\visual studio 2010\Projects\jghj\jghj\bin\Debug\jghj.exe
+d:\mob документы\visual studio 2010\Projects\jghj\jghj\bin\Debug\jghj.pdb
+d:\mob документы\visual studio 2010\Projects\jghj\jghj\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mob документы\visual studio 2010\Projects\jghj\jghj\obj\x86\Debug\jghj.exe
+d:\mob документы\visual studio 2010\Projects\jghj\jghj\obj\x86\Debug\jghj.pdb

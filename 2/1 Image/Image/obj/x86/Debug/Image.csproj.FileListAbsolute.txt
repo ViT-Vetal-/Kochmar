@@ -1,0 +1,20 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\bin\Debug\Image.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\bin\Debug\Image.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\Image.Form1.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\Image.Properties.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\Image.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Image\obj\x86\Debug\Image.pdb
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\Image.exe
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\Image.pdb
+d:\mob документы\visual studio 2010\Projects\Image\Image\bin\Debug\Image.exe
+d:\mob документы\visual studio 2010\Projects\Image\Image\bin\Debug\Image.pdb
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\Image.Form1.resources
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\Image.Properties.Resources.resources
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mob документы\visual studio 2010\Projects\Image\Image\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\Image\Image\obj\x86\Debug\Image.exe
+D:\Mob документы\Visual Studio 2010\Projects\Изображение\Image\Image\obj\x86\Debug\Image.pdb

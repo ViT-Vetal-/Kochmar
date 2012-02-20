@@ -1,0 +1,18 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\bin\Debug\Okoshko.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\bin\Debug\Okoshko.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\Okoshko.Form1.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\Okoshko.Properties.Resources.resources
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\Okoshko.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\Okoshko\obj\x86\Debug\Okoshko.pdb
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\Okoshko.exe
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\Okoshko.pdb
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\Okoshko.Form1.resources
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\Okoshko.Properties.Resources.resources
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\bin\Debug\Okoshko.exe
+d:\mob документы\visual studio 2010\Projects\Okoshko\Okoshko\bin\Debug\Okoshko.pdb

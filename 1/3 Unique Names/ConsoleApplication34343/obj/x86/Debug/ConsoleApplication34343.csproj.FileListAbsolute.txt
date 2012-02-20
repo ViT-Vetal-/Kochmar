@@ -1,0 +1,10 @@
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ConsoleApplication34343\bin\Debug\ConsoleApplication34343.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ConsoleApplication34343\bin\Debug\ConsoleApplication34343.pdb
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ConsoleApplication34343\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ConsoleApplication34343\obj\x86\Debug\ConsoleApplication34343.exe
+C:\Documents and Settings\User\Local Settings\Application Data\Temporary Projects\ConsoleApplication34343\obj\x86\Debug\ConsoleApplication34343.pdb
+D:\Mob документы\Visual Studio 2010\Projects\ConsoleApplication34343\ConsoleApplication34343\obj\x86\Debug\ConsoleApplication34343.exe
+D:\Mob документы\Visual Studio 2010\Projects\ConsoleApplication34343\ConsoleApplication34343\obj\x86\Debug\ConsoleApplication34343.pdb
+D:\Mob документы\Visual Studio 2010\Projects\ConsoleApplication34343\ConsoleApplication34343\bin\Debug\ConsoleApplication34343.exe
+D:\Mob документы\Visual Studio 2010\Projects\ConsoleApplication34343\ConsoleApplication34343\bin\Debug\ConsoleApplication34343.pdb
+D:\Mob документы\Visual Studio 2010\Projects\ConsoleApplication34343\ConsoleApplication34343\obj\x86\Debug\ResolveAssemblyReference.cache
